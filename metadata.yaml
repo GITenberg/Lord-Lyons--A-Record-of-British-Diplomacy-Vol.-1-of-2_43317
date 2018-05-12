@@ -1,0 +1,32 @@
+_repo: Lord-Lyons--A-Record-of-British-Diplomacy-Vol.-1-of-2_43317
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43317-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Newton, Thomas Wodehouse Legh, Baron
+    aliases:
+    - Legh, Thomas Wodehouse, Baron Newton
+    - Newton, Lord
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '42127'
+    url: http://www.gutenberg.org/2009/agents/42127
+description: ''
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lyons, Richard Bickerton Pemell Lyons, Earl, 1817-1887'
+- !lcsh 'Great Britain -- Foreign relations -- 1837-1901'
+- !lcsh 'Europe -- Politics and government -- 1871-1918'
+- !lcc 'DA'
+- !lcsh 'Diplomatic and consular service, British'
+title: 'Lord Lyons: A Record of British Diplomacy, Vol. 1 of 2'
+url: http://www.gutenberg.org/ebooks/43317
